@@ -14,7 +14,10 @@
 
 
 
-### Infrastructure
+
+### Infrastructure for now:
+#### In future move it to AKS or Azure service fabric 
+
 - Azure SQL <-> Azure App Service ( Web Api) <-> Azure Static Web Apps(React)
 
 ## Web Api:
